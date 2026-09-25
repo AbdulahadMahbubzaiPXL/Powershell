@@ -1,8 +1,7 @@
 
 Get-Date
-
-
-get date 
-
-
-
+get-psversion
+pwsh --version
+$PSVersionTable
+get-$PSVersi
+$PSVersionTable
